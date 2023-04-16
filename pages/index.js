@@ -50,6 +50,7 @@ export default function Home() {
           />
         </div>
         <h1>I am demitri echols, god of WAR</h1>
+        <h2>pioner, architect and leader of self</h2>
 
         <div className={styles.grid}>
           <a
