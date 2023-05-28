@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
   
 //   header is going here
-        <div className={styles.description}>
+        <div className={styles.description} header>
           <div className="navbar">
 //             Logo ... navigation links    
           </div>
@@ -30,12 +30,12 @@ export default function Home() {
         </div>
 
 // main section to be placed here
-        <div>
+        <div className="mainThang">
           
         </div>
 
 // footer of course is going here
-        <div>
+        <div className="footThang">
           
         </div>
       </main>
